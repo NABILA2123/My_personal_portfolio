@@ -1,0 +1,57 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/ml.png",
+        "title": "Machine Learning & Modélisation",
+        "description": "Conception et développement de modèles d'apprentissage automatique (supervisé, non supervisé, renforcement), y compris la sélection de caractéristiques, la validation croisée et l'optimisation des hyperparamètres. Les outils populaires incluent Scikit-learn, TensorFlow, Keras, PyTorch."
+      },
+      {
+        "id": "2",
+        "src": "./img/data.png",
+        "title": "Traitement et Analyse de Données",
+        "description": "Manipulation et préparation de données à grande échelle pour l'analyse. Cela inclut le nettoyage, l'agrégation, la transformation et la visualisation des données à l'aide de bibliothèques comme Pandas, NumPy, Matplotlib, et Seaborn."
+      },
+      {
+        "id": "3",
+        "src": "./img/bigdata.png",
+        "title": "Big Data et Technologies Distribuées",
+        "description": "Gestion et traitement de grandes quantités de données sur des systèmes distribués. Cela inclut des outils comme Apache Hadoop, Apache Spark, Dask, et l'utilisation de plateformes cloud telles que AWS, Google Cloud et Microsoft Azure."
+      } , 
+      {
+        "id": "4",
+        "src": "./img/deployment.png",
+        "title": "Déploiement et Scalabilité des Modèles",
+        "description": "Déploiement de modèles de machine learning dans des environnements de production à grande échelle. Cela inclut l'intégration avec des outils comme Docker, Kubernetes, Airflow, ainsi que l’utilisation de plateformes pour la gestion de modèles et le suivi, comme MLflow et Kubeflow."
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/ai_assistant_for_doctors.png",
+        "title": "AI assistant for doctors",
+        "description": "AI assistant for doctors consists of two advanced AI models aimed at assisting medical professionals in diagnosing and analyzing various medical conditions from chest X-ray images and medical reports.",
+        "link": "View In Github"
+      },
+      {
+        "id": "2",
+        "src": "./img/cne-reader.png",
+        "title": "CNE READER",
+        "description": "CNE-Reader is a notebook that uses the TensorFlow 2 Object Detection API to train an SSD-MobileNet model and then convert it into TensorFlow Lite format. Its main purpose is to extract data from student ID cards issued by the National Institute of Posts and Telecommunications - INPT.",
+        "link": "View In Github"
+      },
+      {
+        "id": "3",
+        "src": "./img/canalyse-2025.png",
+        "title": "CANALYSE 2025",
+        "description": "Le projet Canalyse 2025 a pour objectif de développer une plateforme web dédiée à la collecte et à l’analyse des problèmes rencontrés pendant la Coupe d’Afrique des Nations au Maroc. Il vise à extraire et à synthétiser des informations pertinentes pour éviter ces problèmes lors de la Coupe du Monde 2030, au Maroc.",
+        "link": "View In Github"
+      },  
+      {
+        "id": "4",
+        "src": "./img/web-scraping.png",
+        "title": "Web scraping",
+        "description": "This project enables the scraping of product data from Jumia and Bestmark websites. It collects information like product names, prices, ratings, and links to individual product pages. This data is used for market research, analysis, and price comparison purposes."
+      }
+    ]
+  }
