@@ -52,6 +52,7 @@
         "src": "./img/web-scraping.png",
         "title": "Web scraping",
         "description": "This project enables the scraping of product data from Jumia and Bestmark websites. It collects information like product names, prices, ratings, and links to individual product pages. This data is used for market research, analysis, and price comparison purposes."
+        
       }
     ]
   }
